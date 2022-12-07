@@ -9,3 +9,7 @@
 * NullpointerException 的继承级别。 
 
 * NullpointerException 继承自 RuntimeException，所以它是个 unchecked exception。
+
+https://changchen.me/blog/20210920/java-checked-exception/
+
+https://nicechiblog.com/article/19/article_1598229485455.html
